@@ -1,6 +1,6 @@
 {
   "name": "phone-number-verification-tr2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "telephone number verification",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
     "type": "git",
     "url": "https://github.com/fatmayildiza/npm_Package_Nnumber1"
   },
-  "author": "fatmayildiz",
+  "author": "fatma yildiz",
   "license": "ISC"
 }
